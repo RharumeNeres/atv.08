@@ -1,0 +1,11 @@
+{
+  "name": "bts-show-do-milhao",
+  "version": "1.0.0",
+  "description": "Jogo Show do Milhão - Edição BTS",
+  "main": "bts-quiz.js",
+  "scripts": {
+    "start": "node bts-quiz.js"
+  },
+  "author": "Rharume Neres Cruz",
+  "license": "MIT"
+}
