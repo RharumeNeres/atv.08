@@ -12,8 +12,8 @@
 ## Como Jogar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/RharumeNeres/bts-show-do-milhao.git
-   cd bts-show-do-milhao
+   git clone https://github.com/RharumeNeres/atv.08.git
+   cd atv.08
 
 ## Como Executar
 - Node.js instalado (versão 14+)  
